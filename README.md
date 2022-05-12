@@ -13,6 +13,6 @@
 **its simple source based on catuserbot but in arabic language !**
 __________________________
 **[wale userbot](https://t.me/MedThon )**
-**[catuserbot](https://github.com/TgCatUB/catuserbot)**
+**[catuserbot](https://github.com/askqaq/MedThon)**
 __________________________
 **and thanks to telethon arab source**

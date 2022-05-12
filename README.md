@@ -15,4 +15,4 @@ __________________________
 **[wale userbot](https://t.me/MedThon )**
 **[catuserbot](https://github.com/askqaq/MedThon)**
 __________________________
-**and thanks to telethon arab source**
+**and thanks to MedThon arab source**

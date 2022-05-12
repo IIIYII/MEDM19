@@ -7,7 +7,7 @@
 
 
 
-[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zdddu/AnyThing)
+[![نصب الان من هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/askqaq/MedThon)
 
 
 **its simple source based on catuserbot but in arabic language !**
